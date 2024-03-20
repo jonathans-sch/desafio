@@ -1,3 +1,5 @@
+JAVASCRIPT
+
 function fibonacciAte(n) {
   const sequence = [0, 1];
 
